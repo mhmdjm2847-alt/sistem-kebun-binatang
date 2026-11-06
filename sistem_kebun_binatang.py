@@ -42,11 +42,11 @@ print(bubut.__dict__)
 bubut.berburu="belalang"
 print(bubut.berburu)
 #obejek class Ikan
-hiu = Ikan("Hieyong","Hiu paus","laut","ubur ubur")
+hiu = Ikan("Hieyong","Hiu macan","laut","ubur ubur")
 print(hiu.__dict__)
 hiu.berburu()
 hiu.bertahan()
-hiu.berburu= "tidak gak berburu soalnya jinak"
+hiu.berburu= "berburu dengan memangsa ubur ubur"
 hiu.bertahan="dengan bawa golok"
 print(hiu.berburu)
 print(hiu.bertahan)
