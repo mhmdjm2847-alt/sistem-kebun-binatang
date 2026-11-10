@@ -1,0 +1,9 @@
+# File cache Python
+__pycache__/
+*.pyc
+
+# File rahasia
+.env
+
+# File log
+*.log
