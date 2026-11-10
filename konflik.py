@@ -1,2 +1,2 @@
-nama = "gajah"
+nama = "harimau"
 print(nama)
