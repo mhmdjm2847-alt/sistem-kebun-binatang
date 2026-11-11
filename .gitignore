@@ -1,23 +1,28 @@
-# File cache Python
+# Cache Python
 __pycache__/
 *.pyc
 
 # File rahasia
 .env
+latihan_rahasia.txt
 
 # File log
 *.log
+
 # File sementara
 *.tmp
 
 # Folder backup
 backup/
 
+# Virtual environment
+venv/
+.venv/
+
 # File teks, kecuali README
 *.txt
 !README.txt
-latihan_rahasia.txt
-*.txt
-!README.txt
 
-latihan_rahasia.txt
+*.log
+**/cache/
+config.json
