@@ -7,3 +7,17 @@ __pycache__/
 
 # File log
 *.log
+# File sementara
+*.tmp
+
+# Folder backup
+backup/
+
+# File teks, kecuali README
+*.txt
+!README.txt
+latihan_rahasia.txt
+*.txt
+!README.txt
+
+latihan_rahasia.txt
