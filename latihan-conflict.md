@@ -1,1 +1,1 @@
-Belajar Git Conflict
+Perubahan dari branch master
