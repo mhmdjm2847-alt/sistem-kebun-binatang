@@ -18,3 +18,5 @@ Python
 ## Tujuan
 Sebagai proyek latihan untuk memahami
 dan menerapkan konsep OOP dalam Python.
+belajar git cherry-pick
+belajar git cherry-pick
